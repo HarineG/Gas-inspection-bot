@@ -1,0 +1,26 @@
+# Gas-inspection-bot 
+
+This repository contains the code for the Gas_inspection_bot 
+**Handler** : Harine_SSN 
+**Team** : RMK Priya 
+**Duration** : Feb 2021 
+
+## Codes 
+* *.ino files for the rc-car 
+* *.aia file for the MIT AppInventor Application file (It can be directly imported onto the MIT AI2 workspace)
+
+## Other files in ~/Support folder
+* Presentation * Report content 
+* Images of the bot ## Components 
+* Raspberry Pi 
+* Pi-Cam 
+* ESP8266 NodeMCU 
+* Gas sensor (as preferred) 
+* Battery & Charger 
+* Power bank 
+* Misc.(GP board, Jumpers) 
+
+## Functions 
+* Measures sensor values and displays on app 
+* Live stream video to a webpage over the LAN 
+* App to maneuver the bot
